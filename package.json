@@ -1,0 +1,15 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shuib",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Employee-Tracker"
+  }
+}
